@@ -1,4 +1,4 @@
-# mpc_cart_pendulum
+# MPC Cart-Pendulum 
 
 ![cartpend](https://user-images.githubusercontent.com/46535670/231547929-93a563d7-55f6-4635-9821-76100d8970a8.png)
 
