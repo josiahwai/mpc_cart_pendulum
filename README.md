@@ -8,7 +8,7 @@ See the control bootcamp video playlist here:
 https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
 
 Also see: 
-https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
+https://github.com/bertozzijr/Control_Bootcamp_S_Brunton
 
 <br />
 
