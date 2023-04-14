@@ -7,7 +7,7 @@ The file mpc_cartpend.m contains the model predictive control algorithm and opti
 See the control bootcamp video playlist here:
 https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
 
-Also see: 
+Also see code from the bootcamp: 
 https://github.com/bertozzijr/Control_Bootcamp_S_Brunton
 
 <br />
